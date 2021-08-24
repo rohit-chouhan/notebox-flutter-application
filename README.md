@@ -1,16 +1,35 @@
-# rohit_app
-
-A new Flutter project.
+<h1  align="center" >NoteBox</h1>
+A simple note mobile application for Andorid and iOS, to users can easily create and save personal notes in smart phone, this application created in flutter for ui design and functions, all CRUD Operations applying with API JSON which is developed on PHP (Codeigniter Framework).
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Codeigniter Application
+All the back-end/ API code is devloped in php, which is commited on folder `codeigniter-api`, open the folder and publish to your shared hosting and connect your domain to dart application in `config.dart` file you can replace host name with your host name where you published your codeigniter application.
 
-A few resources to get you started if this is your first Flutter project:
+### Step for Setup with Codeigniter:
+- Download latest Codeigniter application from https://codeigniter.com/download
+- Extract the zip file
+- Copy `app` folder from here (repository) and past to extracted folder and replace all file.
+- Deploy to hosting
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+> (Tutorial) How Deploy CodeIgniter 4 to Shared Hosting : https://www.youtube.com/watch?v=k943H5OiIdE
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Step for Setup with Flutter:
+- Open VS Code
+- Go to File
+- Select Open Workspace...
+- Now select project and Open it.
+- Enjoying Coding!!!
+
+> (Tutorial) Flutter Setup in Visual Studio Code & Running first Flutter app in Android Device : https://www.youtube.com/watch?v=WepTtmHKcoI
+
+## Workflow
+Here the simple workflow how the application working.<br><br>
+<img src="https://raw.githubusercontent.com/rohit-chouhan/notebox-flutter-application/main/dartapp.jpg"/>
+
+## Screeshots
+<img src="https://raw.githubusercontent.com/rohit-chouhan/notebox-flutter-application/main/screenshots.jpg"/>
+
+## About
+This application is developed by <a href="https://www.linkedin.com/in/itsrohitchouhan/">Rohit Chouhan ❤️</a><br>
+Create issue pull if you found any problem, Thank You!
