@@ -1,6 +1,14 @@
 <h1  align="center" >NoteBox</h1>
 A simple note mobile application for Andorid and iOS, to users can easily create and save personal notes in smart phone, this application created in flutter for ui design and functions, all CRUD Operations applying with API JSON which is developed on PHP (Codeigniter Framework).
 
+### Highlighted Feature
+- Login/Signup
+- Forget Password (via SMTP Server)
+- Dashboard
+- Add New Notes
+- Settings
+- Dark Mode
+
 ## Getting Started
 
 ### Codeigniter Application
