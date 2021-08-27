@@ -32,6 +32,7 @@ All the back-end/ API code is devloped in php, which is commited on folder `code
 > (Tutorial) Flutter Setup in Visual Studio Code & Running first Flutter app in Android Device : https://www.youtube.com/watch?v=WepTtmHKcoI
 
 ## API Parameters
+An API Parameter will be pass in Codeigniter/PHP application from flutter.
 |   name| description  | parameter   | requeste type|
 | ------------ | ------------ | ------------ | ------------ |
 |   /addUser |  Create new user |  `name` `email` `password`| POST |
