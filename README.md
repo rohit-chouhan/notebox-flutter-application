@@ -31,6 +31,18 @@ All the back-end/ API code is devloped in php, which is commited on folder `code
 
 > (Tutorial) Flutter Setup in Visual Studio Code & Running first Flutter app in Android Device : https://www.youtube.com/watch?v=WepTtmHKcoI
 
+## API Parameters
+|   name| description  | parameter   | requeste type|
+| ------------ | ------------ | ------------ |
+|   /addUser |  Create new user |  `name` `email` `password`| POST |
+|   /login |  Authorize user |  `email` `password`| POST |
+|   /reset |  Forget user account|  `email` | POST |
+|   /createNote |  Create new note |  `user_id` `heading`  `note` | POST |
+|   /getNotes |  Get all notes by user |  `id` | GET |
+|   /getuser |  Get user information |  `id` | GET |
+|   /updateUser |  Update user information |  `id` `name` `email` | POST |
+|   /updatePass |  Update user update |  `id` `cpassword` `password` | POST |
+
 ## Workflow
 Here the simple workflow how the application working.<br><br>
 <img src="https://raw.githubusercontent.com/rohit-chouhan/notebox-flutter-application/main/dartapp.jpg"/>
