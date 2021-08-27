@@ -33,7 +33,7 @@ All the back-end/ API code is devloped in php, which is commited on folder `code
 
 ## API Parameters
 |   name| description  | parameter   | requeste type|
-| ------------ | ------------ | ------------ |
+| ------------ | ------------ | ------------ | ------------ |
 |   /addUser |  Create new user |  `name` `email` `password`| POST |
 |   /login |  Authorize user |  `email` `password`| POST |
 |   /reset |  Forget user account|  `email` | POST |
