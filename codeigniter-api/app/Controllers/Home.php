@@ -6,6 +6,6 @@ class Home extends BaseController
 {
 	public function index()
 	{
-		return view('welcome_message');
+		echo '{"status": false,"msg": "API route is not fine, read documentation here https://github.com/rohit-chouhan/notebox-flutter-application"}';
 	}
 }
