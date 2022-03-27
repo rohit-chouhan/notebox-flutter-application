@@ -146,7 +146,7 @@ class Users extends BaseController
     }
 
     //get user info by id
-    public function getuser(){      
+    public function getUser(){      
         $u = $this->conn->table('users')->select(['id','name','email'])
       ->where('id',$this->request->getVar('id'))
       ->get()->getRow();
