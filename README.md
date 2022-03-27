@@ -18,7 +18,7 @@ All the back-end/ API code is devloped in php, which is commited on folder `code
 - Download latest Codeigniter application from https://codeigniter.com/download
 - Extract the zip file
 - Copy `app` folder from here (repository) and past to extracted folder and replace all file.
-- Deploy to hosting, database file also available in `app/controllers` folder import to hosting then enjoy coding!
+- Deploy to hosting, database file also available in `app` folder import to hosting then enjoy coding!
 
 > (Tutorial) How Deploy CodeIgniter 4 to Shared Hosting : https://www.youtube.com/watch?v=k943H5OiIdE
 
