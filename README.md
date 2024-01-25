@@ -58,3 +58,6 @@ Here is the simple workflow of how the application works:<br><br>
 ## About
 This application is developed by <a href="https://www.linkedin.com/in/itsrohitchouhan/">Rohit Chouhan ❤️</a><br>
 Create an issue and pull request if you find any problem. Thank you!
+
+
+Last updated: 2024-01-25 12:10:01
